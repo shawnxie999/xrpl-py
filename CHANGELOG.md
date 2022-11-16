@@ -21,6 +21,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed:
 - Properly type the instance functions of NestedModel
 
+### Removed:
+- RPCs and utils related to the old sidechain design
+
 ## [1.7.0] - 2022-10-12
 ### Added:
 - Support for ExpandedSignerList amendment that expands the maximum signer list to 32 entries
